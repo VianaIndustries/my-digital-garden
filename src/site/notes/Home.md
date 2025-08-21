@@ -2,4 +2,6 @@
 {"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"]}
 ---
 
-![[Untitled 1.base]]
+
+[[post/3D Design\|3D Design]]
+[[post/TwitchFlasher\|TwitchFlasher]]
