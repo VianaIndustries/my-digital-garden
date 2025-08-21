@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/home/"}
 ---
 
 
-[[post/3D Design\|3D Design]]
-[[post/TwitchFlasher\|TwitchFlasher]]
+test test
