@@ -4,6 +4,4 @@
 
 This is my home .123
 
-<script> 
-console.log("hello") 
-</script>
+![[Projects Base.base]]
