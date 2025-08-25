@@ -4,4 +4,5 @@
 
 This is my home .123
 
+[[post/Phant0mDeck\|Phant0mDeck]]
 ![[Projects Base.base]]
